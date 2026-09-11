@@ -34,7 +34,7 @@
 
 
 
-## 🔗 Ссылка на дашборды
+##  Ссылка на дашборды
 https://datalens.ru/z8vitvnrmmdmj-dz-6?_share_link=org
 
 
